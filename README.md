@@ -1,2 +1,2 @@
-# humlang
-Source of HUM Langueage
+# HUG Language
+Source of HUM Langueage.
